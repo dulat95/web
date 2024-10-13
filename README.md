@@ -7,3 +7,4 @@
 [Тестовый прогон корзина и оплата.pdf](https://github.com/user-attachments/files/16923761/default.pdf)  
 [Отчеты о дефектах Youtrack](https://artsiomrusau.youtrack.cloud/issue/G8-842/Web-App-Testing-Dulat-Sardarbek)  
 [Тестовый прогон в Qase](https://app.qase.io/run/G8?author=241)  
+https://github.com/user-attachments/assets/df53d393-faf4-4bab-8f88-9c87eea570ac  
